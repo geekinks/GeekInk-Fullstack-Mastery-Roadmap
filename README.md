@@ -40,7 +40,7 @@ if you are interested in the Full hands-on project only.
 Please note that this repo is still a work in progress.
 
 - **Roadmap Content**: 60%
-- **Hands-on Project**: 0%
+- **Hands-on Project**: 100%
 
 ## The Problem
 
