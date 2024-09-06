@@ -5,13 +5,14 @@
 <!-- [![Progress]](README.md) -->
 
 <!-- omit from toc -->
-# GeekInk-Fullstack-Mastery-Roadmap
-
 <p align="center">
   <a href="https://https://geekink.com.ng" style="display: block; padding: .5em 0; text-align: center;">
     <img alt="Geek ink Logo" border="0" width="80%" src="https://geekink.com.ng/img/logo.png" />
   </a>
 </p>
+
+# GeekInk-Fullstack-Mastery-Roadmap
+
 
 [Geek ink ](https://geekink.com.ng/) master plan for **roadmap**, **mentorship**, and **bootcamp** to start a Fullstack Engineer career in the Agile way!
 
