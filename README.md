@@ -1,5 +1,4 @@
 [![Google Forms Register](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://docs.google.com/forms/d/e/1FAIpQLSfvTweNNgdV26-EnI15dnaJbY6i8X5i3lMjXssUphdrkJ0Sfw/viewform)
-[![Telegram Group Join](https://img.shields.io/badge/Join-%232ca5e0?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram%20Group)]()
 
 <!-- [![License]](./README.md) -->
 <!-- [![Progress]](README.md) -->
@@ -17,9 +16,8 @@ master plan for **roadmap**, **mentorship**, and **bootcamp** to start a Fullsta
 
 - Visit [![Projects]](projects/README.md)
 if you are interested in the Full hands-on project only.
-- Fill [![Google Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)]() to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
-- Join [![Telegram Group](https://img.shields.io/badge/Telegram_Group-%232ca5e0?style=flat-square&logo=telegram&logoColor=green)](https://t.me/) for discussions and to stay updated (Note: This is a multilingual group).
-
+- Fill [![Google Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)](https://forms.gle/MPk5Kuh6E9dxdqYy6) to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
+  
 ## ToC
 
 - [Status](#status)
