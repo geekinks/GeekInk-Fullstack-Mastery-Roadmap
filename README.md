@@ -120,10 +120,10 @@ electricity. At Geek Ink Lab, we provide an uninterrupted power supply, ensuring
 
 Agile Board: Learners will also have access to an Agile roadmap board, utilizing tools like Kanban and Epics to structure their learning, mimicking a real-world Agile environment.
 
->>**Bonus** 
+**Bonus** 
 You will also gain real-world experience by working with Agile best practices that are vital in professional software development.
 
-ℹ️ Register for the Mentorship Program and Access Geek Ink Lab ℹ️
+[Register for the Mentorship Program and Access Geek Ink Lab](https://forms.gle/MPk5Kuh6E9dxdqYy6) 
 
 ## Roadmap Index
 
