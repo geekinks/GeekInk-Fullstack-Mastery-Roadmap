@@ -46,11 +46,16 @@ Please note that this repo is still a work in progress.
 
 ## The Problem
 
+The landscape of Fullstack Development is ever-evolving, with new tools, frameworks, and technologies appearing every day. Aspiring fullstack engineers face challenges in deciding which technologies to focus on, especially as they navigate both frontend and backend skills.
+
+Many learners follow linear roadmaps that focus solely on acquiring tool-specific skills but struggle to land their first job. Simply learning tools or frameworks is not enough to become an effective fullstack developer. Building real-world experience, understanding modern workflows, and embracing Agile methodologies are crucial to becoming job-ready.
+
+Additionally, many learners lack mentorship, leading to gaps in their practical knowledge and resulting in frustration, career delays, or even dropping out.
+
 ## The Solution
+This roadmap is designed to solve the problem by providing a holistic and practical learning approach, where students don't just learn individual tools but understand how to integrate them in real-world projects. Following Agile principles, the roadmap builds a T-shaped skill set—deep expertise in essential areas with a broad understanding of fullstack development as a whole.
 
-Based on experience for years mentoring people in different stages using a `dynamic MVP-style roadmap` with hands-on projects designed by an experienced Fullstack engineer has been highly successful.
-
-That means **first, understanding the problem instead of just learning a bunch of tools** and then **using an iterative style, each iteration will cover most DevOps areas used in the job** to build a T-shaped skills profile from day one! It's also essential to set the targeted market and organizations because, with different DevOps topologies, the DevOps engineer role requirements vary a lot.
+By combining hands-on learning, mentorship, and an iterative, project-based structure, this roadmap ensures that learners develop practical skills that are in demand in the job market.
 
 ## Roadmap Modes
 
