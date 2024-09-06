@@ -11,10 +11,9 @@
   </a>
 </p>
 
-# GeekInk-Fullstack-Mastery-Roadmap
-
-
-[Geek ink ](https://geekink.com.ng/) master plan for **roadmap**, **mentorship**, and **bootcamp** to start a Fullstack Engineer career in the Agile way!
+# [GeekInk-Fullstack-Mastery-Roadmap](https://geekink.com.ng/)
+ 
+master plan for **roadmap**, **mentorship**, and **bootcamp** to start a Fullstack Engineer career in the Agile way!
 
 - Visit [![Projects]](projects/README.md)
 if you are interested in the Full hands-on project only.
