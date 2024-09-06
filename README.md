@@ -1,4 +1,4 @@
-[![Google Forms Register](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://docs.google.com/forms/d/e/1FAIpQLSfvTweNNgdV26-EnI15dnaJbY6i8X5i3lMjXssUphdrkJ0Sfw/viewform)
+[![Google Forms Register](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://forms.gle/MPk5Kuh6E9dxdqYy6)
 
 <!-- [![License]](./README.md) -->
 <!-- [![Progress]](README.md) -->
