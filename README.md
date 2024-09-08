@@ -1,23 +1,25 @@
-[![Google Forms Register](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://forms.gle/MPk5Kuh6E9dxdqYy6)
+[![Google Forms Register](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://docs.google.com/forms/d/e/1FAIpQLSfvTweNNgdV26-EnI15dnaJbY6i8X5i3lMjXssUphdrkJ0Sfw/viewform)
+[![Telegram Group Join](https://img.shields.io/badge/Join-%232ca5e0?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram%20Group)]()
 
 <!-- [![License]](./README.md) -->
 <!-- [![Progress]](README.md) -->
 
 <!-- omit from toc -->
+# GeekInk-Fullstack-Mastery-Roadmap
+
 <p align="center">
   <a href="https://https://geekink.com.ng" style="display: block; padding: .5em 0; text-align: center;">
     <img alt="Geek ink Logo" border="0" width="80%" src="https://geekink.com.ng/img/logo.png" />
   </a>
 </p>
 
-# [GeekInk-Fullstack-Mastery-Roadmap](https://geekink.com.ng/)
- 
-master plan for **roadmap**, **mentorship**, and **bootcamp** to start a Fullstack Engineer career in the Agile way!
+[Geek ink ](https://geekink.com.ng/) master plan for **roadmap**, **mentorship**, and **bootcamp** to start a Fullstack Engineer career in the Agile way!
 
 - Visit [![Projects]](projects/README.md)
 if you are interested in the Full hands-on project only.
-- Fill [![Google Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)](https://forms.gle/MPk5Kuh6E9dxdqYy6) to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
-  
+- Fill [![Google Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)]() to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
+- Join [![Telegram Group](https://img.shields.io/badge/Telegram_Group-%232ca5e0?style=flat-square&logo=telegram&logoColor=green)](https://t.me/) for discussions and to stay updated (Note: This is a multilingual group).
+
 ## ToC
 
 - [Status](#status)
@@ -30,9 +32,13 @@ if you are interested in the Full hands-on project only.
 - [Roadmap Index](#roadmap-index)
   - [Overview](#overview)
   - [Module 1: Introduction to Web Development](#module-1-introduction-to-web-development)
-  - [Module 2: Web Development Basics](#module-2-web-development-basics)
-  - [Module 3: Building the Foundations](#module-3-building-the-foundations)
-  - [Module 4: Expanding Skills](#module-4-expanding-skills)
+  - [Module 2: Version Control with Git](#module-2-version-control-with-git)
+  - [Module 3: Networks](#module-3-networks)
+  - [Module 4: Databases](#module-4-databases)
+  - [Module 5: The Front End](#module-5-the-front-end)
+  - [Module 6: The Back End](#module-6-the-back-end)
+  - [Module 7: Web Development Frameworks](#module-7-web-development-frameworks)
+  - [Module 8: Principles of Software Engineering](#module-8-principles-of-software-engineering)
 - [License](#license)
 
 ## Status
@@ -40,20 +46,15 @@ if you are interested in the Full hands-on project only.
 Please note that this repo is still a work in progress.
 
 - **Roadmap Content**: 60%
-- **Hands-on Project**: 100%
+- **Hands-on Project**: 0%
 
 ## The Problem
 
-The landscape of Fullstack Development is ever-evolving, with new tools, frameworks, and technologies appearing every day. Aspiring fullstack engineers face challenges in deciding which technologies to focus on, especially as they navigate both frontend and backend skills.
-
-Many learners follow linear roadmaps that focus solely on acquiring tool-specific skills but struggle to land their first job. Simply learning tools or frameworks is not enough to become an effective fullstack developer. Building real-world experience, understanding modern workflows, and embracing Agile methodologies are crucial to becoming job-ready.
-
-Additionally, many learners lack mentorship, leading to gaps in their practical knowledge and resulting in frustration, career delays, or even dropping out.
-
 ## The Solution
-This roadmap is designed to solve the problem by providing a holistic and practical learning approach, where students don't just learn individual tools but understand how to integrate them in real-world projects. Following Agile principles, the roadmap builds a T-shaped skill set—deep expertise in essential areas with a broad understanding of fullstack development as a whole.
 
-By combining hands-on learning, mentorship, and an iterative, project-based structure, this roadmap ensures that learners develop practical skills that are in demand in the job market.
+Based on experience for years mentoring people in different stages using a `dynamic MVP-style roadmap` with hands-on projects designed by an experienced Fullstack engineer has been highly successful.
+
+That means **first, understanding the problem instead of just learning a bunch of tools** and then **using an iterative style, each iteration will cover most DevOps areas used in the job** to build a T-shaped skills profile from day one! It's also essential to set the targeted market and organizations because, with different DevOps topologies, the DevOps engineer role requirements vary a lot.
 
 ## Roadmap Modes
 
@@ -120,10 +121,10 @@ electricity. At Geek Ink Lab, we provide an uninterrupted power supply, ensuring
 
 Agile Board: Learners will also have access to an Agile roadmap board, utilizing tools like Kanban and Epics to structure their learning, mimicking a real-world Agile environment.
 
-**Bonus** 
+>>**Bonus** 
 You will also gain real-world experience by working with Agile best practices that are vital in professional software development.
 
-[Register for the Mentorship Program and Access Geek Ink Lab](https://forms.gle/MPk5Kuh6E9dxdqYy6) 
+ℹ️ Register for the Mentorship Program and Access Geek Ink Lab ℹ️
 
 ## Roadmap Index
 
@@ -133,31 +134,74 @@ This roadmap is split into modules designed to progressively build both frontend
 
 ### Module 1: Introduction to Web Development
 - [ ] Overview of the web and how it works.
-- [ ] Web browsers, HTTP/HTTPS protocols, and DNS.
+  - [ ] what is web ? 
+  - [ ] How Does it works ?
+  - [ ] Client Server architechture
+  - [ ] How Data finds its way ?
 - [ ] Introduction to HTML, CSS, and JavaScript.
 
-### Module 2: Web Development Basics
-- [ ] Deep dive into core web technologies:
-- [ ] HTML: Building the structure of websites.
-- [ ] CSS: Styling and layout techniques.
+### Module 2: Version Control with Git
+- [ ] The Command Line Interface
+- [ ] What is Git and Why Use It?
+- [ ] Using Git Locally
+- [ ] Repo Hosting
+
+#### Assignment: Create a GitHub repository and manage versions of your projec
+
+### Module 3: Networks
+- [ ] How Does It Work?
+- [ ] How Data Finds its Way?
+  - [ ] Web browsers, 
+  - [ ] DNS.
+  - [ ] HTTP/HTTPS protocols,
+  - [ ] Life of a Packet 
+      - [ ] Application layer
+      - [ ] Transport layer
+      - [ ] Newtork laye
+      - [ ] Data link layer
+      - [ ] physical layer
+
+### Module 4: Databases
+- [ ] Databases in Web Development
+- [ ] SQL Databases
+- [ ] NoSQL Databases
+- [ ] Web Caching
+
+#### Assignment: Set up a simple web application with a database connection.
+
+### Module 5: The Front End
+- [ ] The Server-side and The Client-side
+- [ ] HTML: Structuring the web.
+- [ ] CSS: Styling web pages.
 - [ ] JavaScript: Adding interactivity to web pages.
 
-#### Assignment: Build a personal portfolio website.
+#### Assignment: Create a responsive website using HTML, CSS, and JavaScript.
 
-### Module 3: Building the Foundations
+### Module 6: The Back End
+- [ ] What is the Back End?
+- [ ] Microservice Architecture
+- [ ] Back-end Programming
+- [ ] NodeJS
 
-- [ ] Introduction to version control (Git & GitHub).
-- [ ] Frontend frameworks (React, Vue.js).
-- [ ] Backend basics (Node.js, Express, REST APIs).
+#### Assignment: Build a backend service using NodeJS.
 
-### Assignment: Build a blog with a fullstack framework.
+### Module 7: Web Development Frameworks
+- [ ] What are the Frameworks?
+- [ ] Front-end Frameworks (e.g., React, Vue)
+- [ ] Back-end Frameworks (e.g., Express)
+- [ ] Isomorphic Frameworks
+- [ ] Software Stacks (e.g., MERN, MEAN)
 
-### Module 4: Expanding Skills
-- [ ] Databases: SQL vs NoSQL.
-- [ ] Integrating databases (MongoDB, MySQL).
-- [ ] Deployment (github page, firebase, Heroku, netlify, Render, vercel, Digital oceens).
-- [ ] Continuous integration and delivery (CI/CD).
-#### Assignment: Develop and deploy a fullstack app with user authentication.
+#### Assignment: Build a full-stack web application using a framework.
+
+### Module 8: Principles of Software Engineering
+- [ ] Software Process Models
+- [ ] The Waterfall Model
+- [ ] Incremental Development
+- [ ] Reuse-oriented Software Engineering
+- [ ] Test Driven Development
+
+#### Assignment: Apply Test Driven Development to a small web project.
 
 # License
 This roadmap is licensed under the MIT License. You’re free to use and share it, with attribution.
