@@ -1,25 +1,23 @@
-[![Google Forms Register](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://docs.google.com/forms/d/e/1FAIpQLSfvTweNNgdV26-EnI15dnaJbY6i8X5i3lMjXssUphdrkJ0Sfw/viewform)
-[![Telegram Group Join](https://img.shields.io/badge/Join-%232ca5e0?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram%20Group)]()
+[![Google Forms Register](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://forms.gle/MPk5Kuh6E9dxdqYy6)
 
 <!-- [![License]](./README.md) -->
 <!-- [![Progress]](README.md) -->
 
 <!-- omit from toc -->
-# GeekInk-Fullstack-Mastery-Roadmap
-
 <p align="center">
   <a href="https://https://geekink.com.ng" style="display: block; padding: .5em 0; text-align: center;">
     <img alt="Geek ink Logo" border="0" width="80%" src="https://geekink.com.ng/img/logo.png" />
   </a>
 </p>
 
-[Geek ink ](https://geekink.com.ng/) master plan for **roadmap**, **mentorship**, and **bootcamp** to start a Fullstack Engineer career in the Agile way!
+# [GeekInk-Fullstack-Mastery-Roadmap](https://geekink.com.ng/)
+ 
+master plan for **roadmap**, **mentorship**, and **bootcamp** to start a Fullstack Engineer career in the Agile way!
 
 - Visit [![Projects]](projects/README.md)
 if you are interested in the Full hands-on project only.
-- Fill [![Google Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)]() to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
-- Join [![Telegram Group](https://img.shields.io/badge/Telegram_Group-%232ca5e0?style=flat-square&logo=telegram&logoColor=green)](https://t.me/) for discussions and to stay updated (Note: This is a multilingual group).
-
+- Fill [![Google Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)](https://forms.gle/MPk5Kuh6E9dxdqYy6) to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
+  
 ## ToC
 
 - [Status](#status)
@@ -42,15 +40,20 @@ if you are interested in the Full hands-on project only.
 Please note that this repo is still a work in progress.
 
 - **Roadmap Content**: 60%
-- **Hands-on Project**: 0%
+- **Hands-on Project**: 100%
 
 ## The Problem
 
+The landscape of Fullstack Development is ever-evolving, with new tools, frameworks, and technologies appearing every day. Aspiring fullstack engineers face challenges in deciding which technologies to focus on, especially as they navigate both frontend and backend skills.
+
+Many learners follow linear roadmaps that focus solely on acquiring tool-specific skills but struggle to land their first job. Simply learning tools or frameworks is not enough to become an effective fullstack developer. Building real-world experience, understanding modern workflows, and embracing Agile methodologies are crucial to becoming job-ready.
+
+Additionally, many learners lack mentorship, leading to gaps in their practical knowledge and resulting in frustration, career delays, or even dropping out.
+
 ## The Solution
+This roadmap is designed to solve the problem by providing a holistic and practical learning approach, where students don't just learn individual tools but understand how to integrate them in real-world projects. Following Agile principles, the roadmap builds a T-shaped skill set—deep expertise in essential areas with a broad understanding of fullstack development as a whole.
 
-Based on experience for years mentoring people in different stages using a `dynamic MVP-style roadmap` with hands-on projects designed by an experienced Fullstack engineer has been highly successful.
-
-That means **first, understanding the problem instead of just learning a bunch of tools** and then **using an iterative style, each iteration will cover most DevOps areas used in the job** to build a T-shaped skills profile from day one! It's also essential to set the targeted market and organizations because, with different DevOps topologies, the DevOps engineer role requirements vary a lot.
+By combining hands-on learning, mentorship, and an iterative, project-based structure, this roadmap ensures that learners develop practical skills that are in demand in the job market.
 
 ## Roadmap Modes
 
@@ -117,10 +120,10 @@ electricity. At Geek Ink Lab, we provide an uninterrupted power supply, ensuring
 
 Agile Board: Learners will also have access to an Agile roadmap board, utilizing tools like Kanban and Epics to structure their learning, mimicking a real-world Agile environment.
 
->>**Bonus** 
+**Bonus** 
 You will also gain real-world experience by working with Agile best practices that are vital in professional software development.
 
-ℹ️ Register for the Mentorship Program and Access Geek Ink Lab ℹ️
+[Register for the Mentorship Program and Access Geek Ink Lab](https://forms.gle/MPk5Kuh6E9dxdqYy6) 
 
 ## Roadmap Index
 
