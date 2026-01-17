@@ -1,4 +1,4 @@
-[![Apply now](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://www.geekink.com.ng/courses/fullstack-development)
+[![Apply now](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Apply%20Forms)](https://www.geekink.com.ng/courses/fullstack-development)
 [![WhatApp Group Join](https://img.shields.io/badge/Join-%232ca5e0?style=for-the-badge&logo=whatsapp&logoColor=white&label=whatapp%20Group)](https://chat.whatsapp.com/J16Mr6LHa2LAgGXgpda0lN)
 
 <!-- [![License]](./README.md) -->
@@ -17,8 +17,8 @@
 
 - Visit [![Projects]](projects/README.md)
 if you are interested in the Full hands-on project only.
-- Fill [![Apply Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)](https://www.geekink.com.ng/courses/fullstack-development) to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
-- Join [![WhatApp Group](https://img.shields.io/badge/Telegram_Group-%232ca5e0?style=flat-square&logo=whatapp&logoColor=green)](https://chat.whatsapp.com/J16Mr6LHa2LAgGXgpda0lN) for discussions and to stay updated (Note: This is a multilingual group).
+- Fill [![Apply now](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Apply%20Forms)](https://www.geekink.com.ng/courses/fullstack-development) to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
+- Join [![WhatApp Group Join](https://img.shields.io/badge/Join-%232ca5e0?style=for-the-badge&logo=whatsapp&logoColor=white&label=whatapp%20Group)](https://chat.whatsapp.com/J16Mr6LHa2LAgGXgpda0lN) for discussions and to stay updated (Note: This is a multilingual group).
 
 ## ToC
 
