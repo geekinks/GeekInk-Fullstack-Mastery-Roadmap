@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://https://geekink.com.ng" style="display: block; padding: .5em 0; text-align: center;">
-    <img alt="Geek ink Logo" border="0" width="80%" src="https://geekink.com.ng/img/logo.png" />
+    <img alt="Geek ink Logo" border="0" width="80%" src="./logo.png" />
   </a>
 </p>
 
