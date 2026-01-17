@@ -1,5 +1,5 @@
-[![Google Forms Register](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://docs.google.com/forms/d/e/1FAIpQLSfvTweNNgdV26-EnI15dnaJbY6i8X5i3lMjXssUphdrkJ0Sfw/viewform)
-[![Telegram Group Join](https://img.shields.io/badge/Join-%232ca5e0?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram%20Group)]()
+[![Apply now](https://img.shields.io/badge/Register-4285f4?style=for-the-badge&logo=google&logoColor=white&label=Google%20Forms)](https://www.geekink.com.ng/courses/fullstack-development)
+[![WhatApp Group Join](https://img.shields.io/badge/Join-%232ca5e0?style=for-the-badge&logo=whatsapp&logoColor=white&label=whatapp%20Group)](https://chat.whatsapp.com/J16Mr6LHa2LAgGXgpda0lN)
 
 <!-- [![License]](./README.md) -->
 <!-- [![Progress]](README.md) -->
@@ -17,8 +17,8 @@
 
 - Visit [![Projects]](projects/README.md)
 if you are interested in the Full hands-on project only.
-- Fill [![Google Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)]() to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
-- Join [![Telegram Group](https://img.shields.io/badge/Telegram_Group-%232ca5e0?style=flat-square&logo=telegram&logoColor=green)](https://t.me/) for discussions and to stay updated (Note: This is a multilingual group).
+- Fill [![Apply Forms](https://img.shields.io/badge/Google%20Forms-4285f4?style=flat-square&logo=google&logoColor=green)](https://www.geekink.com.ng/courses/fullstack-development) to register and receive an invitation to the professorial [mentorship](#3-mentorship-program) for **paid** (Only **limited slots are available**).
+- Join [![WhatApp Group](https://img.shields.io/badge/Telegram_Group-%232ca5e0?style=flat-square&logo=whatapp&logoColor=green)](https://chat.whatsapp.com/J16Mr6LHa2LAgGXgpda0lN) for discussions and to stay updated (Note: This is a multilingual group).
 
 ## ToC
 
@@ -41,12 +41,6 @@ if you are interested in the Full hands-on project only.
   - [Module 8: Principles of Software Engineering](#module-8-principles-of-software-engineering)
 - [License](#license)
 
-## Status
-
-Please note that this repo is still a work in progress.
-
-- **Roadmap Content**: 60%
-- **Hands-on Project**: 0%
 
 ## The Problem
 
@@ -54,7 +48,7 @@ Please note that this repo is still a work in progress.
 
 Based on experience for years mentoring people in different stages using a `dynamic MVP-style roadmap` with hands-on projects designed by an experienced Fullstack engineer has been highly successful.
 
-That means **first, understanding the problem instead of just learning a bunch of tools** and then **using an iterative style, each iteration will cover most DevOps areas used in the job** to build a T-shaped skills profile from day one! It's also essential to set the targeted market and organizations because, with different DevOps topologies, the DevOps engineer role requirements vary a lot.
+That means **first, understanding the problem instead of just learning a bunch of tools** and then **using an iterative style, each iteration will cover most Fullstack areas used in the job** to build a T-shaped skills profile from day one! It's also essential to set the targeted market and organizations because, the Fullstack engineer role requirements vary a lot.
 
 ## Roadmap Modes
 
@@ -77,8 +71,8 @@ Resources: Each module provides comprehensive learning materials, tutorials, and
 
 #### Goal: 
 
-Help developers with some experience (1-2 years) level up their skills by building real-world, production-ready applications.
-Who is it for? Intermediate developers who want to tackle more complex, industry-grade projects.
+Help developers from zero expreiance level up their skills by building real-world, production-ready applications.
+Who is it for? bigginers developers who want to tackle more complex, industry-grade projects.
 
 #### Approach: 
 
@@ -87,7 +81,7 @@ This mode follows a learning-by-doing approach, guiding learners through real-wo
 #### Project Cycle: 
 
 The roadmap covers all key stages of web development, including:
-Frontend frameworks (React, Vue.js)
+Frontend frameworks (React, nextjs)
 Backend systems (Node.js, Express)
 Database integration (SQL/NoSQL)
 CI/CD pipelines, automated testing, and cloud deployment
@@ -117,14 +111,14 @@ electricity. At Geek Ink Lab, we provide an uninterrupted power supply, ensuring
 
 **Access to Personal Computers** Not everyone has access to a reliable personal computer. Our lab is equipped with high-performance PCs, giving every learner the tools needed to build and test their applications in a real-world environment.
 
-**Internet Access** We understand that many learners struggle with internet connectivity. Geek Ink Lab offers a robust, high-speed internet connection so that you can access online resources, collaborate with peers, and deploy your projects smoothly.
+**Internet Access** We understand that many learners struggle with internet connectivity. Geeks hub offers a robust, high-speed internet connection so that you can access online resources, collaborate with peers, and deploy your projects smoothly.
 
 Agile Board: Learners will also have access to an Agile roadmap board, utilizing tools like Kanban and Epics to structure their learning, mimicking a real-world Agile environment.
 
 >>**Bonus** 
 You will also gain real-world experience by working with Agile best practices that are vital in professional software development.
 
-ℹ️ Register for the Mentorship Program and Access Geek Ink Lab ℹ️
+ℹ️ Register for the Mentorship Program and Access Geeks hub  ℹ️
 
 ## Roadmap Index
 
@@ -187,7 +181,7 @@ This roadmap is split into modules designed to progressively build both frontend
 
 ### Module 7: Web Development Frameworks
 - [ ] What are the Frameworks?
-- [ ] Front-end Frameworks (e.g., React, Vue)
+- [ ] Front-end Frameworks (e.g., React, Nextjs)
 - [ ] Back-end Frameworks (e.g., Express)
 - [ ] Isomorphic Frameworks
 - [ ] Software Stacks (e.g., MERN, MEAN)
@@ -201,7 +195,7 @@ This roadmap is split into modules designed to progressively build both frontend
 - [ ] Reuse-oriented Software Engineering
 - [ ] Test Driven Development
 
-#### Assignment: Apply Test Driven Development to a small web project.
+#### Assignment: Apply one of the Above principal to a small web project.
 
 # License
 This roadmap is licensed under the MIT License. You’re free to use and share it, with attribution.
